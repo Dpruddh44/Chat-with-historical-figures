@@ -1,0 +1,32 @@
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment files
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
+*.venv
+.Python
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
